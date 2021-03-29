@@ -1,7 +1,7 @@
-package com.mybatis.demo;
+package com.demo.mybatis;
 
-import com.mybatis.demo.entity.User;
-import com.mybatis.demo.service.UserService;
+import com.demo.mybatis.entity.User;
+import com.demo.mybatis.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.After;
 import org.junit.Test;
