@@ -1,7 +1,7 @@
-package com.mybatis.demo.controller;
+package com.demo.mybatis.controller;
 
-import com.mybatis.demo.entity.User;
-import com.mybatis.demo.service.UserService;
+import com.demo.mybatis.entity.User;
+import com.demo.mybatis.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
